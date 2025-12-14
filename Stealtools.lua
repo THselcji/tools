@@ -1,4 +1,4 @@
--- [STEAL TOOLS v.1.00] status: [UPDATED]
+-- [STEAL TOOLS v.1.00] [NEW UPD]
 -- discord.gg/stoolshub
 
 -- 32&64bit supported and has safeCombi, lightweight loader for low end devices.
